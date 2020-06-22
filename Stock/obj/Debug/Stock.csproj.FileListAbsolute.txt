@@ -1,0 +1,10 @@
+D:\C#test\Stock\Stock\bin\Debug\Stock.exe.config
+D:\C#test\Stock\Stock\bin\Debug\Stock.exe
+D:\C#test\Stock\Stock\bin\Debug\Stock.pdb
+D:\C#test\Stock\Stock\obj\Debug\Stock.Form1.resources
+D:\C#test\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+D:\C#test\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.cache
+D:\C#test\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+D:\C#test\Stock\Stock\obj\Debug\Stock.exe
+D:\C#test\Stock\Stock\obj\Debug\Stock.pdb
+D:\C#test\Stock\Stock\obj\Debug\Stock.csprojAssemblyReference.cache
